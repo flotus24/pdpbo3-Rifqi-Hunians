@@ -8,7 +8,7 @@ Fitur yang sudah dikerjakan :
 2. Tombol menyimpan data
 3. Tombol melihat seluruh data
 4. Tombol menghapus semua data
-5. Tombol melihat keterangna aplikasi
+5. Tombol melihat keterangan aplikasi
 6. Tombol keluar aplikasi
 
 Yang belum :
